@@ -20,14 +20,18 @@ body {
     color: white;
 }
 
+.mb-4 {
+    margin-top: 10%;
+}
+
 .mb-4 .row {
     margin-left: 0;
     margin-right: 0;
 }
 
 .mb-4 h2 {
-    color: #fff;
-    font-size: 40px;
+    color: #0D0221;
+    font-size: 50px;
 }
 
 .mb-4 label {
@@ -35,6 +39,21 @@ body {
     font-size: 20px;
 }
 
+.mb-4 .col-md-12 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
 .nomargin {
     margin-top: 0 !important;
+}
+
+.btn-lg {
+    padding: 10px 50px;
+}
+
+@media screen and (max-width: 1400px) {
+    .mb-4 h2 {
+        color: #fff;
+    }
 }
