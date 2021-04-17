@@ -19,3 +19,22 @@ body {
  {
     color: white;
 }
+
+.mb-4 .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.mb-4 h2 {
+    color: #fff;
+    font-size: 40px;
+}
+
+.mb-4 label {
+    color: #fff;
+    font-size: 20px;
+}
+
+.nomargin {
+    margin-top: 0 !important;
+}
