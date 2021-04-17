@@ -4,6 +4,7 @@ body {
     font-family:'Roboto', sans-serif;
     font-size: 1rem;
     background-color: white;    
+    text-align: center;
 }
 
 /* ------------------------------------------------Navbar */
@@ -22,4 +23,15 @@ body {
 
 .navbar-light .navbar-toggler {
     background-color: white;
+}
+
+/* --------------------------------------------Footer */
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+.social li {
+    display: inline;
 }
