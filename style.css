@@ -27,6 +27,10 @@ body {
 
 /* --------------------------------------------Footer */
 
+footer {
+    background: #0D0221 ;
+}
+
 ul {
     list-style: none;
     text-align: center;
@@ -36,3 +40,9 @@ ul {
     display: inline;
     font-size: 2rem;
 }
+
+.social-media a {
+    color: white;
+}
+
+
