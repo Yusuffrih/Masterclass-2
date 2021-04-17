@@ -20,6 +20,38 @@ body {
     color: white;
 }
 
+.aboutme {
+    text-align: left;
+}
+
+.hero-img {
+    float: right;
+    height: 300px;
+    width: 300px;
+    border: 2px solid #0D0221;
+    border-radius: 15px;
+}
+
+/* --------------------------------------------Footer */
+
+footer {
+    background: #0D0221 ;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+    font-size: 2rem;
+}
+
+.social-media a {
+    color: white;
+}
+
 .mb-4 {
     margin-top: 10%;
 }
