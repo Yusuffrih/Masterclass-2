@@ -32,6 +32,7 @@ ul {
     text-align: center;
 }
 
-.social li {
+.social-media li {
     display: inline;
+    font-size: 2rem;
 }
