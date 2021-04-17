@@ -19,3 +19,7 @@ body {
  {
     color: white;
 }
+
+.navbar-light .navbar-toggler {
+    background-color: white;
+}
