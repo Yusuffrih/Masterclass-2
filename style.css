@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    font-family:'Roboto', sans-serif;
+    font-size: 1rem;
+    background-color: white;    
+}
+
+/* ------------------------------------------------Navbar */
+
+.custome-bg {
+    background-color:#0D0221;
+}
+
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-brand,
+.navbar-light .navbar-toggler
+ {
+    color: white;
+}
